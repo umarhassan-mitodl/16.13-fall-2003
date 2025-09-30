@@ -4,6 +4,8 @@ description: Supporting file for Lecture 18.
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/b53c4474a0a59436551bf8f47fee6c25_behavior_of_separated.pdf
 file_size: 20966
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

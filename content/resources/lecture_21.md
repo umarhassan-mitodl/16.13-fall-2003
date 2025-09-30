@@ -4,6 +4,8 @@ description: Small-Perturbation Theory. Orr-Sommerfeld Equation (continued)
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/fcd80983c75195885140de6efd1995de_lecture_21.pdf
 file_size: 122247
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

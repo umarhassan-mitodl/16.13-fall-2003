@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/30fef655ecdb326e993c8e4090a1ef71_mc_lean_randall.pdf
 file_size: 60374
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

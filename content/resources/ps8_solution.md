@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/a6cffad2a90ced5104f130ded38f375b_ps8_solution.pdf
 file_size: 49296
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

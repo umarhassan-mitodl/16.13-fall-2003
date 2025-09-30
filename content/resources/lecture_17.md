@@ -5,6 +5,8 @@ description: '2D Interaction Models: Displacement Body, Transpiration. Form Drag
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/daab081a0a501f1dad9cfa95b84d33f0_lecture_17.pdf
 file_size: 111783
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Supporting file for Lecture 33.
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/adc690028bb80e9490c90e6adc8ebc9d_three_dimensional_flows.pdf
 file_size: 82874
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

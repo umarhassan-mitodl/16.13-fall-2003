@@ -4,6 +4,8 @@ description: Reynolds Averaging. Prandtl's Analogy
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/ddc5eacd4cd0f54f0d745c08b246c5d1_lecture_24.pdf
 file_size: 116895
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

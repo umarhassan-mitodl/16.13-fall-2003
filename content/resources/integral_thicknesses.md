@@ -4,6 +4,8 @@ description: Supporting file for Lecture 12.
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/dc6cf5c90f178aadf3e6fe67b77ec503_integral_thicknesses.pdf
 file_size: 99018
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

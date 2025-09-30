@@ -4,6 +4,8 @@ description: Integral Methods. Integral Momentum Equation. Thwaites' Method
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/c9fe37e9704669e7b9df0aa35be0f485_lecture_13.pdf
 file_size: 140182
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

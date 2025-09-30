@@ -29,6 +29,7 @@
     "website": "16-13-aerodynamics-of-viscous-fluids-fall-2003"
   },
   "course_title": "Aerodynamics of Viscous Fluids",
+  "hide_download": true,
   "course_description": "The major focus of 16.13 is on boundary layers, and boundary layer theory subject to various flow assumptions, such as compressibility, turbulence, dimensionality, and heat transfer. Parameters influencing aerodynamic flows and transition and influence of boundary layers on outer potential flow are presented, along with associated stall and drag mechanisms. Numerical solution techniques and exercises are included.\n",
   "department_numbers": [
     "16"
@@ -39,6 +40,7 @@
     "content": "fd03a855-f0df-43f4-54a7-c52beabd5654",
     "website": "16-13-aerodynamics-of-viscous-fluids-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets with Solutions"

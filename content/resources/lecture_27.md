@@ -5,6 +5,8 @@ description: 'Equilibrium BL''s: Clauser Hypothesis. Dissipation Formulas and In
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/4564a355343cc94c0061a6c1331a5a84_lecture_27.pdf
 file_size: 95971
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

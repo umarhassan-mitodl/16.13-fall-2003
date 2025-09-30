@@ -4,6 +4,8 @@ description: Integral Kinetic Energy Equation. Dissipation Methods
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/ba649ea3e1a76f19d62384ab6ed49592_lecture_14.pdf
 file_size: 103539
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

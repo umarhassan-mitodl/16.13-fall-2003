@@ -4,6 +4,8 @@ description: Supporting file for Lecture 12.
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/74dff6d38e9faa93bc22af7fa189fa33_fine_difference_tsl.pdf
 file_size: 48549
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

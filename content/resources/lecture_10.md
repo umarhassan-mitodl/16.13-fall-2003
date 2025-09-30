@@ -4,6 +4,8 @@ description: ODE'S, PDE's, and Boundary Conditions. Well-Posedness
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/7013daa3ebe3e2359da0b83cedb403eb_lecture_10.pdf
 file_size: 129906
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
