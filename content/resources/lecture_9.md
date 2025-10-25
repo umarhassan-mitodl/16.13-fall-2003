@@ -4,8 +4,6 @@ description: Local Scaling. Falkner-Skan Flows
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/becfa8667b0cd457d97e1ffceabe3a35_lecture_9.pdf
 file_size: 162279
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: TSL Coordinates. Boundary Conditions. Shear Layer Categories
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/cc71ac459adbb02ac651586f19e3b438_lecture_8.pdf
 file_size: 158268
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

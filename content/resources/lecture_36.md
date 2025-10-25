@@ -4,8 +4,6 @@ description: 3D Stability Theory. 3D Transition Mechanisms
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/8a0c3adffd9d1a2a6768b8ab6beb9eac_lecture_36.pdf
 file_size: 98262
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

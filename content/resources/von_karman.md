@@ -4,8 +4,6 @@ description: Supporting file for Lecture 12.
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/3dadce4bb00a8bb9070bc6551285121c_von_karman.pdf
 file_size: 37716
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

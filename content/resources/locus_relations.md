@@ -4,8 +4,6 @@ description: Supporting file for Lecture 27.
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/70b8e6d5acb49e8bcd2068180d405205_locus_relations.pdf
 file_size: 35944
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

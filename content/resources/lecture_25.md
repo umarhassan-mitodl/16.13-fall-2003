@@ -5,8 +5,6 @@ description: 'Turbulent BL Structure: Wake, Wall Layers. Inner, Outer Variables.
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/fcf835c9fa2b4aba653d3f6752fd6aec_lecture_25.pdf
 file_size: 99470
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

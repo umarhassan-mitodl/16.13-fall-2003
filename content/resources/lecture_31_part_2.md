@@ -4,8 +4,6 @@ description: Approximate Temperature Profile. Reynolds Heat Flux
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/8b6bfba1762e832b2c703245e35de9d2_lecture_31_part_2.pdf
 file_size: 103319
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

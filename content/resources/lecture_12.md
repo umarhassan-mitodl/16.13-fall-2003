@@ -4,8 +4,6 @@ description: Finite Difference Methods. Newton-Raphson
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/f79baaf0d37d802377484ffaaf4ecad1_lecture_12.pdf
 file_size: 184617
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: 'New Effects: Crossflow, Lateral Dilation, 3D Separation. Governing
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/b55a5120de5414503675674ef547ad59_lecture_32.pdf
 file_size: 85986
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

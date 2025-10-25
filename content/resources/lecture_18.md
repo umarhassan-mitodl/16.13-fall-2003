@@ -4,8 +4,6 @@ description: IBLT Solution Techniques. Iteration Stability
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/fd87768a63dcc3c89610cf7530fd992a_lecture_18.pdf
 file_size: 303008
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
